@@ -4,6 +4,10 @@ An iPhone app for writing down what happened and how it felt, in separate diarie
 
 A hard moment is easier to look at later when the note is already split into pieces: the feeling you walked in with, what happened, the feeling at the time, the thought that showed up, and a free note. Each diary is its own shelf, so one year does not get mixed with another.
 
+## Design
+
+[Figma design (PDF)](design/Therapy-app.pdf)
+
 ## What you can do
 
 - Open the app on a short logo, then a home screen of your diaries.
